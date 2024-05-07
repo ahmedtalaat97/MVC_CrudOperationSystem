@@ -5,3 +5,5 @@ Used technologies: ASP.Net Core MVC, Entity Framework Core Microsoft SQL Server-
 • Frontend Technology: Html-Css- Bootstrap-JQuery.
 • Architecture Pattern: 3Tries Architecture.
 
+<img src="![MVC](https://github.com/ahmedtalaat97/MVC_CrudOperationSystem/assets/140081934/1681b9aa-aa13-47d0-bb9c-fe9b94769c98)
+" width="500" height="500" />
